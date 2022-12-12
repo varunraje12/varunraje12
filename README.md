@@ -1,5 +1,5 @@
 <h1 align="center">Hi, Myself Varunraje, I'm a Student by profession</h1>
-- 🔭 I’m currently Studying **BCA (Prayagraj University)**
+- 🔭 I’m currently Studying BCA (Prayagraj University)
 
 - 🌱 I’m currently learning **ReactJS, MongoDB, ReactNative, NodeJS**
 
