@@ -2,7 +2,7 @@
 
 ###
 
-<p align="left">My name is Varunraje</p>
+<p align="left">My name is Varunraje.</p>
 
 ###
 
